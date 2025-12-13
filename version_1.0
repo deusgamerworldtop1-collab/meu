@@ -5,5 +5,5 @@ elseif game.PlaceId == 1537690962 then
 elseif game.PlaceId == 189707 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/deusgamerworldtop1-collab/meu/refs/heads/main/nds'))("")
 elseif game.PlaceId == 1537690962 then
-    loadstring(game:HttpGet("https://macroware.cc/loader.lua"))()
+    loadstring(game:HttpGet('https://macroware.cc/loader.lua'))("")
 end
